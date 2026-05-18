@@ -1,0 +1,51 @@
+{
+  "name": "stability",
+  "owner": {
+    "name": "Stability"
+  },
+  "description": "Claude Code marketplace federating every @amlplugins/stability-* plugin under a single marketplace source.",
+  "plugins": [
+    {
+      "name": "stability-control",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stability-control.git"
+      }
+    },
+    {
+      "name": "stability-edit",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stability-edit.git"
+      }
+    },
+    {
+      "name": "stability-generate",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stability-generate.git"
+      }
+    },
+    {
+      "name": "stability-three-d",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stability-three-d.git"
+      }
+    },
+    {
+      "name": "stability-upscale",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stability-upscale.git"
+      }
+    },
+    {
+      "name": "stability-video",
+      "source": {
+        "source": "url",
+        "url": "https://github.com/amlplugins/stability-video.git"
+      }
+    }
+  ]
+}
